@@ -3,7 +3,7 @@
 ## 😂"si el codigo no compila respira toma cafe y vuelve al ataque. hasta los bugs se rinden ante la perseverancia de un buen programador"😂
 ![download](https://github.com/user-attachments/assets/5446cb4a-bd96-4653-bf6f-6ac106db3703)                ![download](https://github.com/user-attachments/assets/9a803b36-6a06-484e-abfb-c1769675f74c)
 
-
+[![mapsvoid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapsvoid)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mapsvoid/mapsvoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
