@@ -1,6 +1,6 @@
-## Marco Antonio Pozo Solis
-## soy estudiante de ingenieria de sistemas
-## "si el codigo no compila respira toma cafe y vuelve al ataque. hasta los bugs se rinden ante la perseverancia de un buen programador"
+## 😎🔆hola soy Marco Antonio Pozo Solis🔆😎
+## 👾soy estudiante de ingenieria de sistemas👾
+## 😂"si el codigo no compila respira toma cafe y vuelve al ataque. hasta los bugs se rinden ante la perseverancia de un buen programador"😂
 
 <!--
 **mapsvoid/mapsvoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
